@@ -1,0 +1,11 @@
+html,
+body {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  background: #243211;
+  color: #ced7c399;
+}
+.flex {
+  display: flex;
+}
