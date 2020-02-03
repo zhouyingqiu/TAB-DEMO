@@ -83,7 +83,6 @@ export class AppComponent implements OnInit {
         navItem.active = true;
         this.activeTab = navItem;
         this.slideTabNavBar(itemSpace);
-        // "{"x":299.703125,"y":12.5,"width":67.203125,"height":25,"top":12.5,"right":366.90625,"bottom":37.5,"left":299.703125}"
     }
 
     slideTabNavBar(itemSpace) {
